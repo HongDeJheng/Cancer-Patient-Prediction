@@ -1,5 +1,5 @@
 # Cancer Patient Prediction
-ECE143 final project
+ECE143 final project  
 Author: Hung-Te Cheng, Aleksander Banaszczyk, Dhruv Chaddah, Jordan Taylor, Jieru Bai
 
 ## File Structure
@@ -18,7 +18,7 @@ Author: Hung-Te Cheng, Aleksander Banaszczyk, Dhruv Chaddah, Jordan Taylor, Jier
     ├── weights_xgb.png
     └── weights_svm.png
 ```
-*data/* is where the dataset locates and *img/* is where generated plots store
+```data/``` is where the dataset locates and ```img/``` is where generated plots store
 
 ## Prerequisite 3rd-party Modules
 - numpy
